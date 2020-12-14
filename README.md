@@ -1,4 +1,7 @@
-# furniture_ui_app
+# Furniture App UI
+
+- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
+- [Watch on youtube](https://youtu.be/KJamdcbHFdg)
 
 ![Furniture_Online App UI](https://user-images.githubusercontent.com/16510597/86570900-db19ee80-bf9a-11ea-9b2f-9f859220366f.jpg)
 
